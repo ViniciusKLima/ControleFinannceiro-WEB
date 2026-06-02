@@ -59,13 +59,12 @@ A página foi projetada com foco em experiência do usuário, responsividade e a
 ---
 
 ## 🛠️ Tecnologias Utilizadas
-
-- React
-- Vite
-- JavaScript
-- CSS3
-- Bootstrap
-- Bootstrap Icons
+<div>
+  <img width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img width="6%" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg](https://icon.icepanel.io/Technology/svg/React.svg)" />
+  <img width="6%" border-radius="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+</div>
 
 ---
 
