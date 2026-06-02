@@ -1,81 +1,64 @@
 <p align="center">
-  <img src="./public/banner-readme.png" alt="Banner do Projeto" width="100%">
+  <img src="./public/banner-readme.png" alt="Banner do projeto" width="100%">
 </p>
 
-<h1 align="center">Controle Financeiro</h1>
+<h1 align="center">Landing Page - App de Controle Financeiro</h1>
 
 <p align="center">
-  Uma landing page moderna para apresentar um aplicativo de gestão financeira pessoal.
-</p>
-
-<p align="center">
-  <a href="https://seu-site.vercel.app">Acessar Projeto</a>
+  Uma landing page moderna desenvolvida para apresentar um aplicativo de gestão financeira pessoal.
 </p>
 
 ---
 
 ## 📖 Sobre o Projeto
 
-Manter a vida financeira organizada não deveria ser complicado. Este projeto foi desenvolvido para apresentar um aplicativo focado em ajudar usuários a controlar despesas, acompanhar contas, gerenciar cartões de crédito e visualizar suas finanças de forma clara e intuitiva.
+Este projeto consiste em uma landing page desenvolvida para apresentar um aplicativo de controle financeiro pessoal.
 
-A landing page foi criada com foco em uma experiência moderna, responsiva e visualmente agradável, demonstrando as principais funcionalidades do aplicativo através de mockups, animações e seções explicativas.
+A proposta é comunicar de forma clara os benefícios do aplicativo, destacar suas principais funcionalidades e transmitir uma identidade visual moderna e profissional.
+
+A página foi projetada com foco em experiência do usuário, responsividade e apresentação visual, utilizando mockups, animações e seções estratégicas para demonstrar como o aplicativo ajuda usuários a organizar sua vida financeira.
 
 ---
 
-## ✨ Funcionalidades Apresentadas
+## 🎯 Objetivos da Landing Page
 
-### 🏠 Tela Inicial
-- Resumo financeiro em tempo real
-- Visualização rápida de saldo e despesas
-- Atalhos para ações frequentes
-- Próximos pagamentos
-- Histórico de movimentações
+- Apresentar o aplicativo de forma clara e objetiva
+- Demonstrar suas principais funcionalidades
+- Destacar os benefícios para o usuário
+- Transmitir confiança e profissionalismo
+- Incentivar o download do aplicativo
 
-### 💸 Controle de Despesas
-- Acompanhamento de despesas pendentes e pagas
-- Organização por datas de pagamento
-- Controle de cartões e categorias
-- Registro simplificado de gastos
+---
 
-### 🏦 Contas Bancárias
-- Cadastro de múltiplas contas
-- Resumo geral consolidado
-- Controle de entradas e saídas
-- Extrato financeiro organizado
+## ✨ Principais Características
 
-### 💳 Cartões de Crédito
-- Gerenciamento de múltiplos cartões
-- Controle de faturas
-- Histórico de compras
-- Visualização de faturas anteriores
-
-### 📂 Categorias
-- Categorias personalizadas
-- Organização inteligente dos gastos
-- Visualização por área financeira
-- Melhor compreensão dos hábitos de consumo
+- Design responsivo
+- Interface moderna
+- Mockups interativos
+- Animações suaves
+- Seções informativas
+- Navegação intuitiva
+- Otimização para diferentes dispositivos
 
 ---
 
 ## 📸 Demonstração
 
-### Página Inicial
+### Hero Section
 
-![Home](./screenshots/home.png)
+![Hero](./screenshots/hero.png)
 
-### Seção de Funcionalidades
+### Demonstração das Funcionalidades
 
-![Funcionalidades](./screenshots/funcionalidades.png)
+![Funcionalidades](./screenshots/demo.png)
 
-### Responsividade
+### Versão Mobile
 
-![Responsivo](./screenshots/mobile.png)
+![Mobile](./screenshots/mobile.png)
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
-
-<div>
 
 - React
 - Vite
@@ -84,11 +67,9 @@ A landing page foi criada com foco em uma experiência moderna, responsiva e vis
 - Bootstrap
 - Bootstrap Icons
 
-</div>
-
 ---
 
-## 🚀 Como Executar o Projeto
+## 🚀 Executando o Projeto
 
 ### Clone o repositório
 
@@ -96,7 +77,7 @@ A landing page foi criada com foco em uma experiência moderna, responsiva e vis
 git clone https://github.com/ViniciusKLima/ControleFinanceiro-WEB.git
 ```
 
-### Entre na pasta
+### Acesse a pasta
 
 ```bash
 cd ControleFinanceiro-WEB
@@ -114,53 +95,39 @@ npm install
 npm run dev
 ```
 
-O projeto estará disponível em:
-
-```txt
-http://localhost:5173
-```
-
----
-
-## 📱 Objetivo do Projeto
-
-O objetivo deste projeto é apresentar uma solução financeira simples, intuitiva e acessível, permitindo que qualquer pessoa consiga organizar sua vida financeira sem precisar lidar com planilhas complexas ou sistemas difíceis de utilizar.
-
----
-
-## 🎯 Principais Aprendizados
-
-Durante o desenvolvimento deste projeto foram praticados conceitos como:
-
-- Componentização com React
-- Estruturação de Landing Pages
-- Responsividade Mobile First
-- Organização de código e componentes
-- Manipulação de estados com Hooks
-- Publicação e deploy com Vercel
-- Otimização de interface e experiência do usuário
-
 ---
 
 ## 🌐 Deploy
 
-Projeto publicado em:
+Acesse a versão online:
 
 🔗 https://seu-site.vercel.app
 
 ---
 
-## 👨‍💻 Autor
+## 🎨 Processo de Design
 
-### Vinícius Kauã de Lima Silva
-
-Estudante de Ciência da Computação apaixonado por desenvolvimento web, interfaces modernas e soluções que facilitem o dia a dia das pessoas.
-
-- GitHub: https://github.com/ViniciusKLima
-- LinkedIn: https://linkedin.com/in/seu-linkedin
+O layout foi planejado inicialmente no Figma, buscando criar uma experiência visual moderna e transmitir os principais benefícios do aplicativo através de elementos gráficos, mockups e uma estrutura focada na conversão do usuário.
 
 ---
 
-## 📄 Licença
+## 📚 Aprendizados
 
-Este projeto foi desenvolvido para fins de estudo, portfólio e demonstração de habilidades em desenvolvimento Front-End.
+Durante o desenvolvimento deste projeto foram aplicados conceitos como:
+
+- Componentização com React
+- Estruturação de Landing Pages
+- Responsividade Mobile First
+- Boas práticas de UI
+- Organização de estilos
+- Deploy com Vercel
+- Otimização de experiência do usuário
+
+---
+
+## 👨‍💻 Autor
+
+Vinícius Kauã de Lima Silva
+
+- GitHub: https://github.com/ViniciusKLima
+- LinkedIn: https://linkedin.com/in/seu-linkedin
